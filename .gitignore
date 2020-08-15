@@ -1,0 +1,12 @@
+__pycache__
+images/*
+!images/not_found.jpeg
+logs/
+venv/
+checkpoints/
+detections/
+data/custom.weights
+data/yolov4.weights
+data/yolov4-tiny.weights
+data/mask.weights
+data/gun.weights
